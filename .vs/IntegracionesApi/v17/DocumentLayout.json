@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1 Cursos\\Vs2022Projects\\IntegracionesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAD758C-3164-4589-BA46-0EA83DA83D71}|IntegracionesApi\\IntegracionesApi.csproj|d:\\1 cursos\\vs2022projects\\integracionesapi\\integracionesapi\\controllers\\integracioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CAD758C-3164-4589-BA46-0EA83DA83D71}|IntegracionesApi\\IntegracionesApi.csproj|solutionrelative:integracionesapi\\controllers\\integracioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CAD758C-3164-4589-BA46-0EA83DA83D71}|IntegracionesApi\\IntegracionesApi.csproj|d:\\1 cursos\\vs2022projects\\integracionesapi\\integracionesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CAD758C-3164-4589-BA46-0EA83DA83D71}|IntegracionesApi\\IntegracionesApi.csproj|solutionrelative:integracionesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntegracionController.cs",
+              "DocumentMoniker": "D:\\1 Cursos\\Vs2022Projects\\IntegracionesApi\\IntegracionesApi\\Controllers\\IntegracionController.cs",
+              "RelativeDocumentMoniker": "IntegracionesApi\\Controllers\\IntegracionController.cs",
+              "ToolTip": "D:\\1 Cursos\\Vs2022Projects\\IntegracionesApi\\IntegracionesApi\\Controllers\\IntegracionController.cs",
+              "RelativeToolTip": "IntegracionesApi\\Controllers\\IntegracionController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwvysAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:04:04.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\1 Cursos\\Vs2022Projects\\IntegracionesApi\\IntegracionesApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IntegracionesApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\1 Cursos\\Vs2022Projects\\IntegracionesApi\\IntegracionesApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IntegracionesApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T20:56:58.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
